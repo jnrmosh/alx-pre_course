@@ -1,1 +1,1 @@
-Am learning Git
+Starting to code today, so cool
